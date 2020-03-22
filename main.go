@@ -33,7 +33,7 @@ const (
   	//PROJECT_ID = "around-xxx"
   	//BT_INSTANCE = "around-post"
   	// Needs to update this URL if you deploy it to cloud.
-  	ES_URL = "http://35.193.255.172:9200"
+  	ES_URL = "http://34.69.159.83:9200"
 )
 
 func main() {
